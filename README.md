@@ -22,6 +22,9 @@ tech_educational_background:
     "Fullstack web development - LeWagon, Barcelona, Spain",
     "H2C Highway to Code - University of Applied Sciences, Vaasa, Finland",
   ]
+  
+currently_learning: ["Agile"]
+hobbies: ["Weight lifting", "Sports", "Yoga"]
 
 ```
 
